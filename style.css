@@ -1,0 +1,36 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
+.menu-bar
+{
+    background-color: gray;
+    text-align: center;
+    font-family: Agency FB;
+    font-size: 25px;
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+.menu-bar ul li
+{
+    width: 150px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    Color: black;
+}
